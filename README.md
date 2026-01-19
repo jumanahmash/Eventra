@@ -15,7 +15,7 @@ Developed for **IS240: System Analysis and Design** at **King Saud University, C
 - Shaima Kassim
 - Hana Aldawoud
 
-**Group:** 344086  
+ 
 **Supervisor:** Bodor Alfares
 
 ---
@@ -29,13 +29,6 @@ Developed for **IS240: System Analysis and Design** at **King Saud University, C
 
 ---
 
-## 📂 Repository Structure
-/docs/ # Project reports
-/diagrams/ # UML diagrams (use cases, activities, sequences)
-/requirements/ # Functional & non-functional specs
-/appendix/ # Questionnaire & interview data
-
----
 
 ## 🔧 Key Features
 - **Participants**: Browse, register, pay, receive tickets, give feedback, download certificates
